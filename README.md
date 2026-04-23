@@ -115,6 +115,8 @@ Analysis conducted using SQL and Python against `EduReadDataMart`.
 
 ## Power BI Dashboard
 [![EduRead Dashboard](dashboard.png)](<iframe title="EduRead PowerBI Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZmM3M2NiMjctNzE2OC00Y2Y2LThjOGUtYTc3NmY3MjQzZDU3IiwidCI6IjZmM2M3MDM3LTg1YzItNDBlNi05ZGVjLTE4YjAyZDI4OTI4OCIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>)
+## Power BI Dashboard
+[![EduRead Dashboard](dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZmM3M2NiMjctNzE2OC00Y2Y2LThjOGUtYTc3NmY3MjQzZDU3IiwidCI6IjZmM2M3MDM3LTg1YzItNDBlNi05ZGVjLTE4YjAyZDI4OTI4OCIsImMiOjZ9)
 
 An interactive Power BI dashboard visualizes:
 - Year-over-year revenue and order trends
