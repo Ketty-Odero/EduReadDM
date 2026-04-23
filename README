@@ -1,4 +1,4 @@
-# EduRead Digital – Data Warehouse & Business Intelligence Project
+## EduRead Digital – Data Warehouse & Business Intelligence Project
 
 An end-to-end data warehousing and analytics project for **EduRead Digital**, an online book retail platform. This project covers the full BI pipeline — from ETL development and dimensional modeling in SQL Server, through SSIS-based data loading, to executive-ready Power BI dashboards.
 
